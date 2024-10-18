@@ -1,0 +1,15 @@
+D:\code\THLTMTWD\De02\De02\bin\Debug\De02.exe.config
+D:\code\THLTMTWD\De02\De02\bin\Debug\De02.exe
+D:\code\THLTMTWD\De02\De02\bin\Debug\De02.pdb
+D:\code\THLTMTWD\De02\De02\bin\Debug\EntityFramework.dll
+D:\code\THLTMTWD\De02\De02\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\THLTMTWD\De02\De02\bin\Debug\EntityFramework.xml
+D:\code\THLTMTWD\De02\De02\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\THLTMTWD\De02\De02\obj\Debug\QLSP.csproj.AssemblyReference.cache
+D:\code\THLTMTWD\De02\De02\obj\Debug\De02.Form1.resources
+D:\code\THLTMTWD\De02\De02\obj\Debug\De02.Properties.Resources.resources
+D:\code\THLTMTWD\De02\De02\obj\Debug\QLSP.csproj.GenerateResource.cache
+D:\code\THLTMTWD\De02\De02\obj\Debug\QLSP.csproj.CoreCompileInputs.cache
+D:\code\THLTMTWD\De02\De02\obj\Debug\QLSP.csproj.Up2Date
+D:\code\THLTMTWD\De02\De02\obj\Debug\De02.exe
+D:\code\THLTMTWD\De02\De02\obj\Debug\De02.pdb
